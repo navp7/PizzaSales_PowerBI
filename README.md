@@ -10,6 +10,7 @@
 Welcome to the Pizza Sales Dashboard project for Warner & Spencer Italian Pizza Company. This project involves creating a comprehensive sales performance dashboard using Power BI to visualize and analyze the sales data of our beloved pizza company. The goal is to gain insights into sales trends, customer preferences, and performance metrics.
 
 ![Report1](https://github.com/navp7/PizzaSales_PowerBI/blob/main/Slide1.png)
+---
 ![Report2](https://github.com/navp7/PizzaSales_PowerBI/blob/main/slide2.png)
 
 ## Table of Contents
